@@ -448,6 +448,16 @@
 "dropshadow" "1"
 }
 }
+"deathfont" 
+{
+"1" 
+{
+"name" "Cerbetica Bold"
+"tall" "10"
+"additive" "0"
+"antialias" "1"
+}
+}
 "m0refont13" 
 {
 "1" 
