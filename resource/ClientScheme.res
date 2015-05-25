@@ -691,6 +691,17 @@
 "outline" "0"
 }
 }
+"BaronTime"
+{
+"1" 
+{
+"name" "BaronBold"
+"tall" "30"
+"additive" "0"
+"antialias" "1"
+"outline" "0"
+}
+}
 "m0refont72" 
 {
 "1" 
@@ -4439,5 +4450,17 @@ ReplayBrowser.ScrollBar.SliderButton.Border
 		
 			"font" "resource/Surface-Medium.otf"
 			"name" "Surface-Medium"
+		}
+		"18"
+		{
+		
+			"font" "resource/BaronBlack.otf"
+			"name" "BaronBlack"
+		}
+		"18"
+		{
+		
+			"font" "resource/BaronBold.otf"
+			"name" "BaronBold"
 		}
 }

@@ -66,7 +66,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "PlayerStatusHealthValue"
-"xpos" "145"
+"xpos" "130"
 "ypos" "325"
 "zpos" "6"
 "wide" "150"
@@ -320,5 +320,21 @@
 "scaleImage" "1"
 "image" ""
 "fgcolor" "TanDark"
+}
+"AmmoInClipShadow"
+{
+"ControlName" "CExLabel"
+"fieldName" "AmmoInClipShadow"
+"xpos" "132"
+"ypos" "325"
+"zpos" "6"
+"wide" "150"
+"tall" "50"
+"visible" "1"
+"enabled" "1"
+"labelText" "%Health%"
+"textAlignment" "center"
+"font" "m0refont60"
+"fgcolor" "TransparentBlack"	
 }
 

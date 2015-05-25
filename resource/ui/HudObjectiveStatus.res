@@ -22,7 +22,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"SurfaceMedium30"
+			"font"			"BaronTime"
 			"fgcolor"		"255 255 255 255"
 			"xpos"			"25"
 			"ypos"			"-4"
