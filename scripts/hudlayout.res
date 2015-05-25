@@ -196,7 +196,7 @@
 "CDamageAccountPanel" 
 {
 "fieldName" "CDamageAccountPanel"
-"xpos" "0"
+"xpos" "-40"
 "ypos" "0"
 "wide" "f0"
 "tall" "480"
@@ -204,6 +204,19 @@
 "enabled" "1"
 "PaintBackgroundType" "2"
 }
+        HudDamageIndicator
+        {
+                "fieldName" "HudDamageIndicator"
+                "visible" "1"
+                "enabled" "1"
+                "MinimumWidth" "10"
+                "MaximumWidth" "10"            
+                "StartRadius" "80"
+                "EndRadius" "80"
+                "MinimumHeight" "30"
+                "MaximumHeight" "60"
+                "MinimumTime" "1"
+        }
 "DisguiseStatus" 
 {
 "fieldName" "DisguiseStatus"
@@ -275,7 +288,7 @@
 "ypos_lodef" "25"
 "wide" "640"
 "tall" "480"
-"PaintBackgroundType" "2"
+"PaintBackgroundType" "1"
 }
 "HudMannVsMachineStatus" 
 {

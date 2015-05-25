@@ -4,7 +4,7 @@
 {
 "CHudAccountPanel" 
 {
-"delta_item_x" "100"
+"delta_item_x" "50"
 "delta_item_start_y" "92"
 "delta_item_end_y" "92"
 "PositiveColor" "0 255 0 255"
@@ -53,10 +53,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AccountValue"
-"xpos" "425"
+"xpos" "405"
 "ypos" "365"
 "zpos" "2"
-"wide" "74"
+"wide" "80"
 "tall" "30"
 "autoResize" "1"
 "pinCorner" "2"
@@ -81,8 +81,8 @@
 "tall" "30"
 "autoResize" "1"
 "pinCorner" "2"
-"visible" "1"
-"enabled" "1"
+"visible" "0"
+"enabled" "0"
 "tabPosition" "0"
 "labelText" "%metal%"
 "textAlignment" "north-west"
